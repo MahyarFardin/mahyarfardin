@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahyarfardin&label=Profile%20views&color=0e75b6&style=flat" alt="mahyarfardin" /> </p>
 
-- 🌱 I’m currently learning **Neural networks and AI**
+- 🌱 I’m currently learning **React based web applications**
 
 - 📫 How to reach me **mahyarfardinfar@gmail.com**
 
